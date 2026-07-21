@@ -1,0 +1,10 @@
+myenv/
+last_url.txt
+
+# Environment & secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
